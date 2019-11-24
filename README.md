@@ -1,2 +1,2 @@
 # DemoProject
-Initial Project created for demo
+Demo Project created for demo
