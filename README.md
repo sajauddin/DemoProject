@@ -1,3 +1,3 @@
 # DemoProject
-Demo Project created for demo
-Hello Wrold
+Project created for demo
+Welcome
